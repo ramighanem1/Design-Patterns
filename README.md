@@ -1,6 +1,6 @@
 # Design-Patterns
  
-## I follow this courst to learn Design Patterns :
+## I follow this course to learn Design Patterns :
 
 | Design Patterns in Python | [URL](https://www.udemy.com/course/design-patterns-in-python) 
 
