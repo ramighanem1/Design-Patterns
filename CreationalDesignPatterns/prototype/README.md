@@ -7,9 +7,6 @@ The Prototype design pattern is a creational design pattern that enables the cre
 ![Prototype UML Diagram](./Capture_1.png)
 
 
-## Terminology
-
-
 ## Prototype Example UML Diagram
 
 ![Prototype Example UML Diagram](./Capture_2.png)

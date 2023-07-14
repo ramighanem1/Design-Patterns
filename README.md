@@ -12,3 +12,4 @@
 | Abstract Factory | [URL](./CreationalDesignPatterns/AbstractFactory/README.md) |
 | Builder | [URL](./CreationalDesignPatterns/builder/README.md) |
 | prototype | [URL](./CreationalDesignPatterns/prototype/README.md) |
+| singleton | [URL](./CreationalDesignPatterns/singleton/README.md) |
